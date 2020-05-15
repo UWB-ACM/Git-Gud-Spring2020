@@ -1,0 +1,5 @@
+xI love CS
+:w
+:q!
+t
+

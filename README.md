@@ -1,4 +1,4 @@
-# Git-Gud-Spring2020
+# Git Gud Spring 2020, presented by UWB ACM
 Add your name to a fun message below!
 
 bunnies wabbits

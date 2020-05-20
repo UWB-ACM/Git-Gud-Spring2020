@@ -1,4 +1,4 @@
-# Git-Gud-Spring2020
+# UWB ACM's `git` Workshop for Spring 2020
 Add your name to a fun message below!
 
 bunnies wabbits

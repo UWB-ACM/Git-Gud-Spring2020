@@ -18,3 +18,5 @@ Starfox is my favorite ZooOOOoOoOooom doggo! --Lizzy
 starfox is super awesome
 
 Starfox doggo is the real star fox. All the others are just starfaux.
+
+Good job to everyone who is surviving this quarter! :star:
